@@ -1,0 +1,18 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "Language - Spanish",
+			"description": "Spanish spelling language for Sublime Text - Diccionario de Español para Sublime Text",
+			"author": ["CAERMALO"],
+			"details": "https://github.com/CAERMALO/Language_-_Spanish",
+			"labels": ["spell check", "dictionary", "spanish"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		}
+	]
+}
